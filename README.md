@@ -1,1 +1,3 @@
-# ZEA_JavaFX_Lab8
+# JavaFX - 8th Lab
+![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
